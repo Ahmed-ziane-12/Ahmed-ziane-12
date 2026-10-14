@@ -35,7 +35,7 @@ Software Engineer, Web Developer
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/project-two">
-        <img src="https://placehold.co/600x320/171717/F5F5F5?text=Project+Two" width="100%" alt="Project two preview" />
+        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%" alt="Project two preview" />
       </a>
       <h3>VisitJijel Backend</h3>
       <p>Laravel REST API for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
@@ -43,7 +43,7 @@ Software Engineer, Web Developer
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/project-three">
-        <img src="https://placehold.co/600x320/171717/F5F5F5?text=Project+Three" width="100%" alt="Project three preview" />
+        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%" alt="Project three preview" />
       </a>
       <h3>VisitJijel Admin Panel</h3>
       <p>A Next js Admin panel for VisitJijel.</p>
