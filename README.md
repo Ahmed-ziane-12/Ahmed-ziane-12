@@ -70,5 +70,7 @@ Software Engineer, Web Developer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-ziane-12&style=flat-square&color=8B9CF6&label=Profile+views" alt="Profile views" />
-</p>
+<img
+    src="https://komarev.com/ghpvc/?username=Ahmed-ziane-12&style=flat-square&color=8B9CF6"
+    alt="Profile views"
+  /></p>
