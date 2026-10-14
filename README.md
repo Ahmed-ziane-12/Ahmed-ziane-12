@@ -19,7 +19,7 @@ Software Engineer, Web Developer
   </a>
 </p>
 
----
+
 
 ## Recently working on
 
