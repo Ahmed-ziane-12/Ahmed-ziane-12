@@ -26,28 +26,28 @@ Software Engineer, Web Developer
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/your_username/visitjijel">
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-frontend">
         <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel.vercel.app_fr_explore_54.png?raw=true" width="100%" height="180" alt="VisitJijel project preview" />
       </a>
       <h3>VisitJijel Frontend</h3>
       <p>Next js frontend for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
-      <a href="https://github.com/your_username/visitjijel">Explore project ↗</a>
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-frontend">Explore project ↗</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/your_username/project-two">
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-backend">
         <img src="https://raw.githubusercontent.com/Ahmed-ziane-12/Ahmed-ziane-12/cf37b62117964713b334c77e251f62cb8c600844/images/laravel-svgrepo-com.svg" width="100%" height="160" alt="Project two preview" />
       </a>
       <h3>VisitJijel Backend</h3>
       <p>Laravel REST API for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
-      <a href="https://github.com/your_username/project-two">Explore project ↗</a>
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-backend">Explore project ↗</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/your_username/project-three">
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-admin-panel">
         <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%"height="180" alt="Project three preview" />
       </a>
       <h3>VisitJijel Admin Panel</h3>
       <p>A Next js Admin panel for VisitJijel.</p>
-      <a href="https://github.com/your_username/project-three">Explore project ↗</a>
+      <a href="https://github.com/Ahmed-ziane-12/visit-jijel-admin-panel">Explore project ↗</a>
     </td>
   </tr>
 </table>
