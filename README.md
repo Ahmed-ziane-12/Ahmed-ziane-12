@@ -1,7 +1,7 @@
 # 👾 Ahmed Ziane
 
 ```
-Software Engineer, Web Developer
+Software Engineer | Full-stack developer building with Next.js, Laravel & PostgreSQL
 ```
 
 <p align="left">
@@ -19,6 +19,11 @@ Software Engineer, Web Developer
   </a>
 </p>
 
+## About me
+
+Full-stack developer, four years in. My current project is **VisitJijel**, a tourism platform for Jijel, built with Next.js, Laravel, and PostgreSQL.
+
+I'm available for **freelance or contract work**, and I'm open to contributing to open source projects too. If you have something that needs building, **email me with the details**.
 
 
 ## Recently working on
