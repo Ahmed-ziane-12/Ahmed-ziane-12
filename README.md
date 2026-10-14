@@ -27,7 +27,7 @@ Software Engineer, Web Developer
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/visitjijel">
-        <img src="https://placehold.co/600x320/171717/F5F5F5?text=VisitJijel" width="100%" alt="VisitJijel project preview" />
+        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-plan-merged.png?raw=true" width="100%" alt="VisitJijel project preview" />
       </a>
       <h3>VisitJijel Frontend</h3>
       <p>Next js frontend for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
