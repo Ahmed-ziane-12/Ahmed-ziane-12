@@ -27,7 +27,8 @@ Software Engineer, Web Developer
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/visitjijel">
-        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel.vercel.app_fr_explore_54.png?raw=true" width="100%" alt="VisitJijel project preview" />
+        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel.vercel.app_fr_explore_54.png?raw=true" width="100%"
+  height="180" alt="VisitJijel project preview" />
       </a>
       <h3>VisitJijel Frontend</h3>
       <p>Next js frontend for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
@@ -35,7 +36,8 @@ Software Engineer, Web Developer
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/project-two">
-        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%" alt="Project two preview" />
+        <img src="https://raw.githubusercontent.com/Ahmed-ziane-12/Ahmed-ziane-12/cf37b62117964713b334c77e251f62cb8c600844/images/laravel-svgrepo-com.svg" width="100%"
+  height="180" alt="Project two preview" />
       </a>
       <h3>VisitJijel Backend</h3>
       <p>Laravel REST API for VisitJijel, A tourism platform for discovering destinations and planning personalised trips across Jijel, Algeria.</p>
@@ -43,7 +45,8 @@ Software Engineer, Web Developer
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/your_username/project-three">
-        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%" alt="Project three preview" />
+        <img src="https://github.com/Ahmed-ziane-12/Ahmed-ziane-12/blob/main/images/visit-jijel-merged.png?raw=true" width="100%"
+  height="180" alt="Project three preview" />
       </a>
       <h3>VisitJijel Admin Panel</h3>
       <p>A Next js Admin panel for VisitJijel.</p>
