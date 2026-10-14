@@ -62,15 +62,15 @@ Software Engineer, Web Developer
 
 ---
 
-## GitHub stats
+## GitHub stats 
+<p align="left">
+  <img
+      src="https://komarev.com/ghpvc/?username=Ahmed-ziane-12&style=flat-square&color=8B9CF6"
+      alt="Profile views"
+    />
+</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-ziane-12&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B9CF6&text_color=AAAAAA&icon_color=8B9CF6" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ziane-12&layout=compact&hide_border=true&bg_color=00000000&title_color=8B9CF6&text_color=AAAAAA" height="165" alt="Most used languages" />
 </p>
-
-<p align="center">
-<img
-    src="https://komarev.com/ghpvc/?username=Ahmed-ziane-12&style=flat-square&color=8B9CF6"
-    alt="Profile views"
-  /></p>
