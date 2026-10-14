@@ -12,7 +12,7 @@ Software Engineer, Web Developer
     <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="www.linkedin.com/in/ahmed-ziane-b11914179">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/hmedzn5">
     <img src="https://img.shields.io/badge/Facebook-18181B?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
